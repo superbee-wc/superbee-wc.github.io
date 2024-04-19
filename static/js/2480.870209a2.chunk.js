@@ -1,1 +1,0 @@
-(self.webpackChunksuperbee_front=self.webpackChunksuperbee_front||[]).push([[2480],{42480:function(){}}]);
